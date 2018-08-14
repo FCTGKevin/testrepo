@@ -10,8 +10,8 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World. Welcome to GIT! Let the branching begin.");
-            Console.WriteLine("Working from mulitple sources requires communication.");
+            Console.WriteLine("Hello World. Welcome to GIT!");
+            Console.WriteLine("Let the branching begin!");
             Console.ReadKey();
         }
     }
